@@ -1,0 +1,6 @@
+requests==2.25.1
+pyarmor==7.6.0
+cython==0.29.23
+requests==2.25.1
+pyarmor==7.6.0
+cython==0.29.23
